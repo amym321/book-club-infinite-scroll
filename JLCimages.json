@@ -150,7 +150,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/JLCBookClub3.jpg"
+            "regular": "assets/images/JLCbookclub3.jpg"
         }
     },
     {
@@ -161,7 +161,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/badblood.jpg"
+            "regular": "assets/images/BadBlood.jpg"
         }
     },
     {
@@ -172,7 +172,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/gangleaderforaday2.jpg"
+            "regular": "assets/images/GangLeaderForADay2.jpg"
         }
     },
     {
@@ -205,7 +205,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/heartGoesLast2.jpg"
+            "regular": "assets/images/HeartGoesLast2.jpg"
         }
     },
     {
@@ -227,7 +227,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/JLCBookClub4.jpg"
+            "regular": "assets/images/JLCbookclub4.jpg"
         }
     },
     {
@@ -260,7 +260,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/Redlined.jpg"
+            "regular": "assets/images/RedLined.jpg"
         }
     },
     {
@@ -282,7 +282,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/JLCBookClub.jpg"
+            "regular": "assets/images/JLCbookclub.jpg"
         }
     },
     {
@@ -359,7 +359,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/WhisperNetwork.jpg"
+            "regular": "assets/images/whispernetwork.jpg"
         }
     },
     {
@@ -381,7 +381,7 @@
             "html": "JLCimages.json"
         },
         "urls": {
-            "regular": "assets/images/JLCBookClub11.jpg"
+            "regular": "assets/images/JLCbookclub11.jpg"
         }
     }
 ]
