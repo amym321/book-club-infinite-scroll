@@ -1,0 +1,387 @@
+[
+    {
+        "id": 1,
+        "description": "Nine Perfect Strangers",
+        "alt_description": "Nine Perfect Strangers",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/9PerfectStrangers.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "description": "Crazy Rich Asians",
+        "alt_description": "Crazy Rich Asians",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/CrazyRichAsians.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "description": "Killers Of The Flower Moon",
+        "alt_description": "Killers Of The Flower Moon",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/KillersOfTheFlowerMoon.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "description": "Woman In Cabin 10",
+        "alt_description": "Woman In Cabin 10",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/WomanInCabin10.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "description": "American Marriage",
+        "alt_description": "American Marriage",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/AmericanMarriage.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "description": "Little Fires Everywhere",
+        "alt_description": "Little Fires Everywhere",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/LittleFiresEverywhere.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "description": "Never Let Me Go",
+        "alt_description": "Never Let Me Go",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/NeverletMeGo.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "description": "Educated",
+        "alt_description": "Educated",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/Educated.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "description": "Confessions Of Frannie Langton",
+        "alt_description": "Confessions Of Frannie Langton",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/ConfessionsOfFrannie.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "description": "American Heiress",
+        "alt_description": "American Heiress",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/AmericanHeiress.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "description": "American Pastoral",
+        "alt_description": "American Pastoral",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/AmericanPastoral.jpg"
+        }
+    },
+    {
+        "id": 12,
+        "description": "Three Women",
+        "alt_description": "Three Women",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/3women2.jpg"
+        }
+    },
+    {
+        "id": 13,
+        "description": "Year Of Living Danishly",
+        "alt_description": "Year Of Living Danishly",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/YearOfLivingDanishly.jpg"
+        }
+    },
+    {
+        "id": 14,
+        "description": "JLC Book Club",
+        "alt_description": "JLC Book Club",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/JLCBookClub3.jpg"
+        }
+    },
+    {
+        "id": 15,
+        "description": "Bad Blood",
+        "alt_description": "Bad Blood",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/badblood.jpg"
+        }
+    },
+    {
+        "id": 16,
+        "description": "Gang leader For A Day",
+        "alt_description": "Gang Leader For A Day",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/gangleaderforaday2.jpg"
+        }
+    },
+    {
+        "id": 17,
+        "description": "Gentleman In Moscow",
+        "alt_description": "Gentleman In Moscow",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/GentlemanInMoscow.jpg"
+        }
+    },
+    {
+        "id": 18,
+        "description": "Great Believers",
+        "alt_description": "Great Believers",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/GreatBelievers2.jpg"
+        }
+    },
+    {
+        "id": 19,
+        "description": "The Heart Goes Last",
+        "alt_description": "The Heart Goes Last",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/heartGoesLast2.jpg"
+        }
+    },
+    {
+        "id": 20,
+        "description": "Hillbilly Elegy",
+        "alt_description": "Hillbilly Elegy",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/HillbillyElegy.jpg"
+        }
+    },
+    {
+        "id": 21,
+        "description": "JLC Book Club",
+        "alt_description": "JLC Book Club",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/JLCBookClub4.jpg"
+        }
+    },
+    {
+        "id": 22,
+        "description": "My Brilliant Friend",
+        "alt_description": "My Brilliant Friend",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/MyBrilliantFriend.jpg"
+        }
+    },
+    {
+        "id": 23,
+        "description": "North Water",
+        "alt_description": "North Water",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/NorthWater.png"
+        }
+    },
+    {
+        "id": 24,
+        "description": "Redlined",
+        "alt_description": "Redlined",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/Redlined.jpg"
+        }
+    },
+    {
+        "id": 25,
+        "description": "Red Notice",
+        "alt_description": "Red Notice",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/RedNotice2.jpg"
+        }
+    },
+    {
+        "id": 26,
+        "description": "JLC Book Club",
+        "alt_description": "JLC Book Club",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/JLCBookClub.jpg"
+        }
+    },
+    {
+        "id": 27,
+        "description": "Devil In TheJunior League",
+        "alt_description": "Devil In TheJunior League",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/DevilinTheJuniorLeague2.jpg"
+        }
+    },
+    {
+        "id": 28,
+        "description": "Seven Husbands",
+        "alt_description": "Seven Husbands",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/SevenHusbands2.jpg"
+        }
+    },
+    {
+        "id": 29,
+        "description": "Silent Patient",
+        "alt_description": "Silent Patient",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/Silent-Patient3.jpg"
+        }
+    },
+    {
+        "id": 30,
+        "description": "The Girls",
+        "alt_description": "The Girls",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/TheGirls2.jpg"
+        }
+    },
+    {
+        "id": 31,
+        "description": "The Sympathizer",
+        "alt_description": "The Sympathizer",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/TheSympathizer.jpg"
+        }
+    },
+    {
+        "id": 32,
+        "description": "Warmth Of Other Suns",
+        "alt_description": "Warmth Of Other Suns",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/WarmthOfOtherSuns.jpg"
+        }
+    },
+    {
+        "id": 33,
+        "description": "Whisper Network",
+        "alt_description": "Whisper Network",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/WhisperNetwork.jpg"
+        }
+    },
+    {
+        "id": 34,
+        "description": "Beautiful Forevers",
+        "alt_description": "Beautiful Forevers",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/BeautifulForevers3.jpg"
+        }
+    },
+    {
+        "id": 35,
+        "description": "JLC Book Club",
+        "alt_description": "JLC Book Club",
+        "links": {
+            "html": "JLCimages.json"
+        },
+        "urls": {
+            "regular": "assets/images/JLCBookClub11.jpg"
+        }
+    }
+]
