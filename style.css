@@ -39,7 +39,8 @@ hr:after {
     }
 
 .logo {
-    height: 3.5em;
+    width: 100%;
+    /* height: 3.5em; */
 }
   
 .loader img {
@@ -57,19 +58,28 @@ hr:after {
     width: 100%;
     margin-top: 5px;
 }
+
+.text-container {
+    padding-left: 15%;
+    padding-right: 15%;
+}
   
 /* Media Query: Large Smartphone Vertical.  Same as bootstrap responsiveness */
 @media screen and (max-width: 576px) {
     h1 {
-      font-size: 20px;
+      font-size: 25px;
     }
     h3, h4, h5 {
-        font-size: 12px;
+        font-size: 18px;
     }
     .image-container {
         margin: 10px;
     }
     .logo {
-        height: 2em;
+        height: 2.5em;
+    }
+    .text-container {
+        padding-left: 0;
+        padding-right: 0;
     }
 }
